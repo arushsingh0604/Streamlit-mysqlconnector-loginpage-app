@@ -41,6 +41,14 @@ streamlit run app.py
 - After logging in, access the welcome page to manage your account.
 
 ## Screenshots
+## Screenshots
+
+![Change Password](/images/ChangePassword.png)  
+![Change Username](/images/ChangeUsername.png)  
+![Delete User](/images/DeleteUser.png)  
+![Login Page](/images/LoginPage.png)  
+![Registration Page](/images/RegistrationPage.png)  
+
 ## Security Notes
 
 - Passwords are stored as plain text currently. For production, implement proper hashing (e.g., bcrypt).
