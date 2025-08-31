@@ -41,7 +41,6 @@ streamlit run app.py
 - After logging in, access the welcome page to manage your account.
 
 ## Screenshots
-## Screenshots
 
 ![Change Password](/images/ChangePassword.png)  
 ![Change Username](/images/ChangeUsername.png)  
