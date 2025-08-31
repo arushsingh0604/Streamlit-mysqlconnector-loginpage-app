@@ -41,7 +41,9 @@ streamlit run app.py
 - After logging in, access the welcome page to manage your account.
 
 ## Screenshots
-
+![Registration Page](images/Screenshot2025-08-31232219.png)
+![Login Page](images/Screenshot2025-08-31225542.png)
+![Update Username](images/Screenshot2025-08-31225625.png)
 
 
 ## Security Notes
