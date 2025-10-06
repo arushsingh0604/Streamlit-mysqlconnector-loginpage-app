@@ -50,7 +50,7 @@ streamlit run app.py
 
 ## Security Notes
 
-- Passwords are stored as plain text currently. For production, implement proper hashing (e.g., bcrypt).
+- Passwords are stored as plain text currently. For production, I will implement proper hashing (e.g., bcrypt).
 - Input validation is implemented to enforce password strength and username uniqueness.
 
 ## Future Improvements
